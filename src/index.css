@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:'#EBEDF4';
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.mantine-kea9ny{
+  background-color: rgba(0, 0,0, 0.1);
+ 
+}
+.mantine-keqvxe{
+  background-color: rgba(0, 0,0, 0.1);
+ 
+}
+.mantine-1gp3704{
+  padding: 0;
+  margin: 0;
+}
+.Address input{
+  border-left: transparent;
+  border-right: transparent;
+  border-top: transparent;
 }
